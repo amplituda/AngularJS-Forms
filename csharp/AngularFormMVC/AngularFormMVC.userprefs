@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AngularFormMVC/Global.asax.cs">
+    <Files>
+      <File FileName="AngularFormMVC/Views/Web.config" Line="1" Column="1" />
+      <File FileName="AngularFormMVC/Views/Home/Index.aspx" Line="13" Column="1" />
+      <File FileName="AngularFormMVC/Controllers/HomeController.cs" Line="17" Column="3" />
+      <File FileName="AngularFormMVC/Web.config" Line="1" Column="1" />
+      <File FileName="AngularFormMVC/Global.asax.cs" Line="19" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
