@@ -9,11 +9,11 @@ angularFormsApp.config(['$routeProvider', function($routeProvider) {
       controller: 'HomeController'
     })
     .when('/newEmployeeForm', {
-      templateUrl: 'EmployeeForm/efTemplate.html',
+      templateUrl: 'views/EmployeeForm/efTemplate.html',
       controller: 'efController'
     })
     .when('/updateEmployeeForm/:id', {
-      templateUrl: 'EmployeeForm/efTemplate.html',
+      templateUrl: 'views/EmployeeForm/efTemplate.html',
       controller: 'efController'
     })
     .otherwise({
